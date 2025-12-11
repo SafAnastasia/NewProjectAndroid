@@ -35,11 +35,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/base_padding"
-            android:layout_marginEnd="@dimen/base_indent_half"
+            android:layout_marginEnd="@dimen/minimum_margin"
             android:layout_weight="1"
             android:backgroundTint="@color/button_categories_color"
-            android:layoutweight="1"
-            android:paddingStart="@dimen/minimum_margin"
             android:text="@string/categories_text" />
 
         <Button

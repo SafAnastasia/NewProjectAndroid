@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="status_bar_height">32dp</dimen>
-    <dimen name="navigation_bar_height">48dp</dimen>
     <dimen name="base_padding">16dp</dimen>
     <dimen name="base_indent_half">8dp</dimen>
     <dimen name="minimum_margin">2dp</dimen>
+    <dimen name="text_font">14sp</dimen>
 
 </resources>
