@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">NewProjectAndroid</string>
+    <string name="app_name" translatable="false">NewProjectAndroid</string>
+    <string name="categories_text" translatable="false">категории</string>
+    <string name="favorites_text" translatable="false">избранное</string>
 </resources>
